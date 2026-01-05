@@ -5,13 +5,14 @@ import { defineConfig } from 'vite';
 export default defineConfig({
     plugins: [react()],
 
-    // 👇 Обязателен для GitHub Pages
-    base: '/React_App-Clevertec/',
+    // Вместо /React_App-Clevertec/ ставим универсальный ./ 
+    base: './',
 
     server: {
         host: true,
         port: 3000,
     },
+
     resolve: {
         alias: {
             '~': resolve(__dirname, 'src'),
