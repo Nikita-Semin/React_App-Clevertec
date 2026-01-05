@@ -2,6 +2,7 @@
     "name": "yee-daa-api",
     "private": true,
     "version": "0.0.0",
+    "homepage": "https://nikita-semin.github.io/React_App-Clevertec",
     "scripts": {
         "start": "vite",
         "build": "vite build",
