@@ -1,3 +1,5 @@
+console.log('### MAIN MOUNTED ###');
+
 import './index.css';
 
 import { StrictMode } from 'react';
