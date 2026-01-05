@@ -1,4 +1,4 @@
-# yee-daa
+start# yee-daa
 
 # Инструкция к спринту №1 по [ссылке](https://docs.google.com/document/d/1vSGtJuYk6slnhuR9ffkaThWPa47N0UcMINFEeCtu2v4/edit?tab=t.0#heading=h.gjdgxs)
 

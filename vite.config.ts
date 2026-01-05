@@ -4,6 +4,10 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
     plugins: [react()],
+
+    // 👇 Обязателен для GitHub Pages
+    base: '/React_App-Clevertec/',
+
     server: {
         host: true,
         port: 3000,
